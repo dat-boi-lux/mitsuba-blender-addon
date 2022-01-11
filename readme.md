@@ -1,8 +1,10 @@
-Mitsuba Blender Addon (Modified to work with blender 2.75/2.75a)
+Mitsuba Blender Addon (Modified to work with Blender 2.75/2.75a)
 ---------------------
 
 Authors:
 Wenzel Jakob, Francesc Juhé, Bartosz Styperek
+
+Thank you to Jason Brenneman for modifying the code to be compatible with Blender 2.75/2.75a.
 
 This directory contains the addon for Blender -> Mitsuba Renderer
 integration. It is based on the excellent LuxBlend 2.5 code from
