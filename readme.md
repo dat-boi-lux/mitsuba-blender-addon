@@ -24,6 +24,10 @@ Copy the 'mtsblend' folder into Blender scripts/addons directory and
 then enable Mitsuba addon on 'Addons > Render' section of Blender
 'User Preferences' panel.
 
+Locate your Mitsuba installation directory. Within this directory Copy the /dist/ directory to your system: /usr/share directory. Rename the directory you just copied over to 'mitsuba'. (i.e. /usr/share/dist becomes /usr/share/mitsuba).
+
+Navigate back to your Mitsuba installation directory. within /dist/, Copy or symlink each '.so' file within this directory to your system: /usr/lib directory.
+
 After enabling the addon, configure the 'Path to Mitsuba Installation'
 setting that appears under Mitsuba addon on the same 'User Preferences'
 panel by selecting the folder where Mitsuba Renderer binary is installed.
