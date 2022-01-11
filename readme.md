@@ -1,4 +1,4 @@
-Mitsuba Blender Addon (Modified by Jason Brenneman to work with blender 2.75/2.75a)
+Mitsuba Blender Addon (Modified to work with blender 2.75/2.75a)
 ---------------------
 
 Authors:
