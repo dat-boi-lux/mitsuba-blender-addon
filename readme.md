@@ -1,4 +1,4 @@
-Mitsuba Blender Addon
+Mitsuba Blender Addon (Modified by Jason Brenneman to work with blender 2.75/2.75a)
 ---------------------
 
 Authors:
@@ -17,7 +17,7 @@ to Mitsuba Renderer format. Custom properties panels are added to
 Blender UI to set Mitsuba Renderer options and custom attributes.
 
 
-Installation Instructions:
+Installation Instructions (Ubuntu 20.04):
 --------------------------
 
 Copy the 'mtsblend' folder into Blender scripts/addons directory and
