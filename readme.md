@@ -1,4 +1,4 @@
-Mitsuba Blender Addon (Modified to work with Blender 2.75/2.75a)
+Mitsuba Blender Addon (Modified to work with Blender 2.75a/2.79b)
 ---------------------
 
 Authors:
@@ -32,7 +32,7 @@ Navigate back to your Mitsuba installation directory. within /dist/, Copy or sym
 
 After enabling the addon, configure the 'Path to Mitsuba Installation'
 setting that appears under Mitsuba addon on the same 'User Preferences'
-panel by selecting the folder where Mitsuba Renderer binary is installed.
+panel by selecting the folder: /usr/share/mitsuba (where you previously copied over mitsuba to).
 
 Blender might have to be restarted after configuring 'Exectuable Path'
 for Material preview to work.
